@@ -2,17 +2,17 @@ name:               "chendong"
 description:        "为将来的自己做一些不后悔的决定"
 
 url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
+author:             "chendong"
+email:              "13594622565@163.com"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+twitter:            "chendong"
+email:              "13594622565@163.com"
+github:             "MrDon94"
+pinterest:          "chendong"
+linkedin:           "chendong"
+facebook:           "chendong"
 
-disqus_shortname:   "thinker3197"
+disqus_shortname:   "chendong"
 
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
@@ -25,9 +25,9 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
+  - name:           "关于"
     href:           "/about"
-  - name:           "Download"
+  - name:           "下载"
     href:           "/releases"
 
 sass:
